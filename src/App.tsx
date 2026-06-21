@@ -985,7 +985,7 @@ export default function App() {
                           {/* Stats Divider & Content */}
                           <div className="grid grid-cols-2 gap-3 mt-4 pt-4 border-t border-slate-900">
                             <div className="p-2.5 bg-slate-900/40 rounded-xl border border-slate-800/40">
-                              <span className="text-[10px] text-slate-400 font-bold block uppercase tracking-wider">Palmarés ORO</span>
+                              <span className="text-[10px] text-slate-400 font-bold block uppercase tracking-wider">Palmares ORO</span>
                               <div className="flex items-center gap-1.5 mt-1">
                                 <Trophy className="w-4 h-4 text-amber-400" />
                                 <span className="font-display font-extrabold text-sm text-white">{s.oro}</span>
@@ -993,7 +993,7 @@ export default function App() {
                             </div>
 
                             <div className="p-2.5 bg-slate-900/40 rounded-xl border border-slate-800/40">
-                              <span className="text-[10px] text-slate-400 font-bold block uppercase tracking-wider">Palmarés PLATA</span>
+                              <span className="text-[10px] text-slate-400 font-bold block uppercase tracking-wider">Palmares PLATA</span>
                               <div className="flex items-center gap-1.5 mt-1">
                                 <Trophy className="w-4 h-4 text-slate-300" />
                                 <span className="font-display font-extrabold text-sm text-white">{s.plata}</span>
