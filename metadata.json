@@ -1,0 +1,6 @@
+{
+  "name": "Mundial 2026 - Estadísticas",
+  "description": "Sistema de gestión y estadísticas para el mundial de fútbol 2026. Incluye simulación de torneos y exportación de código Java / SQL para proyectos de bases de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
